@@ -1,0 +1,3 @@
+Book,300,Stationary,5.0
+Smart Watch,2000,smart-wearables,4.0
+Cup set,50,Home,4.5
